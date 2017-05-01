@@ -1,0 +1,11 @@
+
+{
+"name": "alternateIndustry",
+"title": "Daniels Alternate Industry",
+"version": "1.0.0",
+"date": "10-02-2017",
+"author": "Danielv123",
+"dependencies": ["base >= 0.14"],
+"factorio_version": "0.15",
+"description": "You could do that, or possibly this instead"
+}
